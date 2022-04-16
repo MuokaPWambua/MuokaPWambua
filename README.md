@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Data science and ML**
 
-- 💬 Ask me about **anything really**
+- 😊 Interest **Data science and ML in Forex**
+
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
