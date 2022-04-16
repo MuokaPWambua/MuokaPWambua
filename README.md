@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Data science and ML**
 
 - 😊 Interest **Data science and ML in Forex**
+- 😬🤖 Gotta start with Pseudocode 🤖😬
 
 - 💬 Ask me about **anything**
 
