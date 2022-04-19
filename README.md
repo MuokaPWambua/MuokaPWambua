@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data science and ML**
 
-- 😊 Interest **Data science and ML in Finance💹**
+- 😊 Interest **just intrested**
 
 - 💬 Ask me about **anything**
 
