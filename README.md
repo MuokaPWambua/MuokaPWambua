@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data science and ML**
 
-- 😊 Interest **just intrested**
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **muokapwambua@gmail.com**
