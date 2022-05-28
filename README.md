@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data science and ML**
 
+- I create npm packages on free time
+
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **muokapwambua@gmail.com**
