@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data science and ML**
 
-- I create npm packages on free time
+- 📈 Quantitative Finance
 
 - 💬 Ask me about **anything**
 
