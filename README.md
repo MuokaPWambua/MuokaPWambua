@@ -7,7 +7,7 @@
 
 - 📈 Quantitative Finance
 
-- 💬 Ask me about **anything**
+- 💬 They say conversation rule a nation
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
