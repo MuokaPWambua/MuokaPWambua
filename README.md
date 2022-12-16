@@ -7,7 +7,7 @@
 
 - 📈 Quantitative Finance
 
-- 💬 They say conversation rule a nation
+- 💬 Jack of all trades is not an abuse
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
