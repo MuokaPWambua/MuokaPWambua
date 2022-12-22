@@ -7,8 +7,6 @@
 
 - 📈 Quantitative Finance
 
-- 💬 Jack of all trades is not an abuse
-
 - 📫 How to reach me **muokapwambua@gmail.com**
 
 
