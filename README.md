@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data science and ML**
 
-- Intrest 📈 Quantitative Finance
+- 📈 Quantitative Finance
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
