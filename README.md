@@ -3,9 +3,9 @@
 
 <!-- - 🔭 I’m currently working on [hao.co.ke](https://hao.co.ke) -->
 
-- 🌱 I’m currently learning **Data science and ML**
+- 🌱 I’m currently learning **Data science**
 
-- A keen interest in Quantitative Finance 📈
+- A keen interest in **Quantitative Finance 📈 and ML 🤖**
 
 - I know a lot but not enough, still learning 🤓
 
