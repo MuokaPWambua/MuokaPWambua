@@ -7,7 +7,7 @@
 
 - A keen interest in Quantitative Finance 📈
 
-- I know a lot but not enough forever learning 🤓
+- I know a lot but not enough, still learning 🤓
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
