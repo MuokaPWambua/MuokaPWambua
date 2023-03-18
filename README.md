@@ -9,6 +9,8 @@
 
 - I know a lot but not enough, still learning 🤓
 
+- I write technical articles on my free time check https://medium.com/@muokapwambua
+
 - 📫 How to reach me **muokapwambua@gmail.com**
 
 
