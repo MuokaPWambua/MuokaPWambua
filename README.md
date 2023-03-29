@@ -3,13 +3,11 @@
 
 <!-- - 🔭 I’m currently working on [hao.co.ke](https://hao.co.ke) -->
 
-- 🌱 learning **Data science 🤖**
-
-- With a keen interest in **Quantitative Finance 📈**
+-🌱 Always learning; I know a lot but not enough 👴.
 
 - I write techincal articles https://medium.com/@muokapwambua
 
-- Always learning; I know a lot but not enough 👴.
+- With a keen interest in **Quantitative Finance 📈 and ML **
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
