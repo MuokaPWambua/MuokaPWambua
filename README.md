@@ -1,4 +1,4 @@
-                                    <h1 align="center">Hi 👋, I'm Patrick Muoka</h1>
+<h1 align="center"> Hi 👋, I'm Patrick Muoka</h1>
 <h3 align="center">A passionate JavaScript|Python developer and a Data Scientist</h3>
 
 <!-- - 🔭 I’m currently working on [hao.co.ke](https://hao.co.ke) -->
