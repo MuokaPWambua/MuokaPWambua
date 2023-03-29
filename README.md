@@ -1,15 +1,15 @@
-<h1 align="center"> Hi 👋, I'm Patrick Muoka</h1>
-<h3 align="center">A passionate JavaScript|Python developer and a Data Scientist</h3>
+<h1 align="center"> Hi 👋, I'm Patrick Muoka </h1>
+<h3 align="center"> A passionate JavaScript|Python developer and a Data Scientist </h3>
 
 <!-- - 🔭 I’m currently working on [hao.co.ke](https://hao.co.ke) -->
 
 - 🌱 I’m currently learning **Data science**
 
-- A keen interest in **Quantitative Finance 📈 and ML 🤖**
+- With a keen interest in **Quantitative Finance 📈 and ML 🤖**
+
+- I write techincal articles https://medium.com/@muokapwambua
 
 - I know a lot but not enough, still learning 🤓
-
-- Am technical writer https://medium.com/@muokapwambua
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
