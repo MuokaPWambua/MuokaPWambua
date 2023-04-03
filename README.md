@@ -9,14 +9,14 @@
 
 - With a keen interest in **Tech 🦾, Quantitative Finance 📈 and ML 🤖**
 
-- Always learning 🌱; I know a lot but not enough.
+- Always learning 🌱.
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/patrick-muoka-187890152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrick muoka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patrick-muoka-187890152/" target="blank"><img align="center" src="https://icons8.com/icon/wjmIz86BWbyf/linkedin-circled" alt="patrick muoka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
