@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Patrick Muoka </h1>
-<h3 align="center"> A passionate JavaScript|Python developer and a Data Scientist </h3>
+<h3 align="center"> A passionate JavaScript|Python developer and Data Scientist </h3>
 
 <!-- - 🔭 I’m currently working on [hao.co.ke](https://hao.co.ke) -->
 
 
-- I write techincal articles https://medium.com/@muokapwambua
+- I write articles https://medium.com/@muokapwambua.
 
 - With a keen interest in **Tech 🦾, Quantitative Finance 📈 and ML 🤖**
 
