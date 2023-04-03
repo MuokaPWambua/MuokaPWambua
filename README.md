@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/patrick-muoka-187890152/" target="blank"><img align="center" src="[https://icons8.com/icon/wjmIz86BWbyf/linkedin-circled](https://www.svgrepo.com/download/299484/linkedin.svg)" alt="patrick muoka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patrick-muoka-187890152/" target="blank"><img align="center" src="https://www.svgrepo.com/download/299484/linkedin.svg" alt="patrick muoka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
