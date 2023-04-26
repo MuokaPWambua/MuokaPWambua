@@ -4,9 +4,9 @@
 <!-- - 🔭 I’m currently working on [hao.co.ke](https://hao.co.ke) -->
 
 
-- I write articles https://medium.com/@muokapwambua.
+- I write technical articles https://medium.com/@muokapwambua.
 
-- Always learning 🌱.
+- 🌱 Always learning.
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
