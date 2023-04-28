@@ -6,7 +6,7 @@
 
 - I write technical articles https://medium.com/@muokapwambua.
 
-- 🌱 Always learning.
+- 🌱 constant learning.
 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
