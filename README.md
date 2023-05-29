@@ -1,13 +1,15 @@
 <h1 align="center"> Hi 👋, I'm Patrick Muoka </h1>
-<h3 align="center"> A passionate JavaScript | Python | ML developer </h3>
+<h3 align="center"> A passionate JavaScript | Python and ML engineer </h3>
 
 <!-- - 🔭 I’m currently working on [hao.co.ke](https://hao.co.ke) -->
 
 
 - Check out my articles https://medium.com/@muokapwambua 📚📰.
 
--  Ask me anything.
+- Ask me anything.
 
+- I am one of the few guys who know docker 😎.
+ 
 - 📫 How to reach me **muokapwambua@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
