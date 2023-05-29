@@ -4,12 +4,11 @@
 <!-- - 🔭 I’m currently working on [hao.co.ke](https://hao.co.ke) -->
 
 
-- I write technical articles https://medium.com/@muokapwambua.
+- Check out my articles https://medium.com/@muokapwambua 📚📰.
 
-- 🌱 constant learning.
+-  Ask me anything.
 
 - 📫 How to reach me **muokapwambua@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
