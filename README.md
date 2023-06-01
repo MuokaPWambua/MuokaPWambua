@@ -8,7 +8,7 @@
 
 - Ask me anything.
 
-- I am one of the few guys who know docker 😎.
+- I know docker 😎.
  
 - 📫 How to reach me **muokapwambua@gmail.com**
 
