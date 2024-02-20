@@ -6,9 +6,7 @@
 
 - Check out my articles https://medium.com/@muokapwambua 📚📰.
 
-- Ask me anything.
-
-- I know docker 😎.
+- Ask me anything 😎.
  
 - 📫 How to reach me **muokapwambua@gmail.com**
 
